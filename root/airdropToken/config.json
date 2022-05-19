@@ -12,7 +12,7 @@
     "buttonLabel": "JOIN AIRDROP",
     "buttonLink": "https://google.com",
     "buttonTarget": "_blank",
-    "contract": "0x354E725664E83755FE6c9653D45d0acc7650d62b",
+    "contract": "0xF375A122f2D67216C79b30ba6C75f6bf5b742D2e",
     "isCheckWhiteList": 1,
     "reward": {
       "rareTitle": "Legendary",
