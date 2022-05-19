@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "type": "TOKEN",
+    "title": "Airdrop by Ukadoge (Over $50k)",
+    "startJoin": "May 11 2022 12:01:00 GMT+0700",
+    "endJoin": "May 11 2022 12:01:20 GMT+0700",
+    "startClaim": "May 11 2022 12:01:40 GMT+0700",
+    "endClaim": "May 20 2022 16:01:59 GMT+0700",
+    "totalParticipants": 880000,
+    "lastSale": 2,
+    "buttonLabel": "JOIN AIRDROP",
+    "buttonLink": "https://google.com",
+    "buttonTarget": "_blank",
+    "contract": "0x354E725664E83755FE6c9653D45d0acc7650d62b",
+    "isCheckWhiteList": 1,
+    "reward": {
+      "rareTitle": "Legendary",
+      "cover": "/images/chests/chests-legendary.png"
+    }
+  }
+]
